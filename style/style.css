@@ -67,6 +67,11 @@ hr{
 .imgDetalle{
     object-fit:contain;
 }
+.divEvolucion{
+    background-color:#e2e0e0 ;
+    border-radius: 10px;
+    margin: 3px;
+}
 @media (max-width: 576px) {
     .contDetalle{
         border: none;
